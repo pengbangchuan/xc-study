@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.freemarker.template_update_delay",
+      "type": "java.lang.String",
+      "description": "Description for spring.freemarker.template_update_delay."
+  }
+] }
